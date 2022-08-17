@@ -5,7 +5,7 @@ A new Flutter project.
 ✅#dart
 ✅#visualcode
 
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/Flutter-Sample-Crypto-Application/master/tic-tac1.png)
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/flutter-tic-tac-toe-game/master/tic-tac1.png)
 
 ## Getting Started
 
