@@ -2,10 +2,10 @@
 
 A new Flutter project.
 ✅ Tic Tac Toe Game
-✅#dart
-✅#visualcode
+✅dart
+✅visualcode
 
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/flutter_tic_tac_toe_game/master/tic-tac1.png)
+![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/Flutter-Sample-Crypto-Application/master/crypto_app.jpg)
 
 ## Getting Started
 
