@@ -5,10 +5,7 @@ A new Flutter project.
 ✅dart
 ✅visualcode
 
-![tic-tac1](https://user-images.githubusercontent.com/94855499/209954053-9f6ad6cd-9cdb-4056-b52f-4d83280c91ab.png)
-![tic-tac2](https://user-images.githubusercontent.com/94855499/209954044-a423d6e4-d1b2-4a90-a6bc-3d736aef539d.png)
-
-
+![tic_tac_toe_ui](https://user-images.githubusercontent.com/94855499/209954567-cddd0f4b-5bd6-4a31-b4ae-c3a92acd0aa9.png)
 
 
 ## Getting Started
