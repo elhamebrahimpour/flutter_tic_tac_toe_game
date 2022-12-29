@@ -5,8 +5,10 @@ A new Flutter project.
 ✅dart
 ✅visualcode
 
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/flutter_tic_tac_toe_game/master/tic-tac1.png)
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/flutter_tic_tac_toe_game/master/tic-tac2.png)
+![tic-tac1](https://user-images.githubusercontent.com/94855499/209954053-9f6ad6cd-9cdb-4056-b52f-4d83280c91ab.png)
+![tic-tac2](https://user-images.githubusercontent.com/94855499/209954044-a423d6e4-d1b2-4a90-a6bc-3d736aef539d.png)
+
+
 
 
 ## Getting Started
